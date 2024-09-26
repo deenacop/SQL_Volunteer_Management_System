@@ -1,0 +1,13 @@
+drop table Event;
+drop table Client;
+drop table Hall;
+drop table EventType;
+drop table Photograph;
+drop table Orchestra;
+drop table Volunteering;
+drop table Shifts;
+drop table Helped;
+drop table Volunteer;
+drop table Shift_Manager;
+drop table Manager;
+drop table Person;
